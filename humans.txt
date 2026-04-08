@@ -1,0 +1,11 @@
+/* TEAM */
+Role: Founder & Director
+Location: London, England
+
+/* SITE */
+Last update: 2026
+Standards: HTML5, CSS3
+Components: Vanilla JS
+
+/* CONTACT */
+hello@novaline.co.uk
